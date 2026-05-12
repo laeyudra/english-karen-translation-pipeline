@@ -109,7 +109,7 @@ Current work focuses on:
 
 ## Why This Project Matters
 
-English-to-Karen translation is a low-resource NLP problem. Existing tools generally do not provide professional-grade Karen translation quality, and many fail to capture basic grammar behavior such as particles, classifiers, postpositions, natural word order, and clause scope.
+Karen is spoken by millions of people, but it remains largely unsupported by mainstream translation systems and frontier language models. In practice, many systems do not merely make grammar mistakes; they often appear to have little functional knowledge of Karen at all.
 
-This project approaches the problem from the ground up: first by modeling grammar explicitly, then by using that grammar engine to generate structured translation data that can support future machine learning work.
+The project addresses this by building a rule-based English-to-Karen translation pipeline that explicitly models grammar, lexical behavior, and surface structure before using that grammar engine to generate structured translation data that can support future machine learning work.
 
