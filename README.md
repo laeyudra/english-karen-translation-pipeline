@@ -9,7 +9,7 @@ This project is a custom rule-based English-to-Karen translation pipeline for a 
 
 The system is not meant to be only a hand-written translator. It is also designed as a synthetic 1:N parallel corpus generator: one English input can produce one or more valid Karen-side outputs or surface variants. The long-term goal is to pair this synthetic data with public, licensed, or otherwise usable Karen text to support model training, evaluation, and eventually higher-quality Karen translation tools.
 
-Karen is not well supported by current frontier language models or mainstream translation systems. This project explores a practical path toward better Karen NLP by combining linguistic knowledge, rule-based generation, dictionary engineering, and testable software systems.
+Karen is not well supported by current frontier language models or mainstream translation systems despite being spoken by millions. This project explores a practical path toward better Karen NLP by combining linguistic knowledge, rule-based generation, dictionary engineering, and testable software systems.
 
 ## What I Built
 
