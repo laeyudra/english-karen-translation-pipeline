@@ -1,7 +1,5 @@
 # Resume Bullets
 
-Use or adapt these bullets for resumes, LinkedIn, portfolios, or applications.
-
 ## General Software Engineering Version
 
 - Built a Python-based English-to-Karen rule-based translation pipeline with parser normalization, dictionary-driven lexical selection, grammar-transfer rules, optional surface variant rendering, and sentence-level regression testing.
