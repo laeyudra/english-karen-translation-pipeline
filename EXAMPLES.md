@@ -174,7 +174,7 @@ The indefinite tail system is sensitive to both polarity and mood. In an
 interrogative environment, `anyone` uses the interrogative indefinite tail
 rather than the positive declarative or negative tail.
 
-This example also shows that the pipeline can infer question mood structurally
+This example also shows that the engine can infer question mood structurally
 from English subject-auxiliary inversion even without a final question mark.
 
 ### Input
@@ -243,7 +243,7 @@ independent systems interact:
 Tell no one what I was doing
 ```
 
-The current pipeline produced 24 grammatical variants for this sentence before
+The current engine produced 24 grammatical variants for this sentence before
 lexical variants are even considered.
 
 ### Selected Outputs
