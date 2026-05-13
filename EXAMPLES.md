@@ -446,6 +446,10 @@ The dog of the father of my friend is resting under the tree.
 The dog of my friend's father is resting under the tree.
 ```
 
+```text
+My friend's father's dog is resting under the tree.
+```
+
 ### Shared Output
 
 ```text
